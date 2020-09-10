@@ -1,0 +1,38 @@
+nav{
+    background-color: white;
+}
+
+#nav-header-box{
+    background-color: #4A452F;
+}
+
+#nav-header-box h2{
+    color: white;
+    text-shadow: 2px -1px #0C0E01;
+
+}
+
+h1{
+    color: #0C0E01;
+}
+
+.spacer{
+    height: 100px;
+}
+
+#backdrop{
+    background-image: url(pexels-photo-5294039.jpeg);
+}
+
+.mainbox{
+    background-color: white;
+}
+
+img{
+    float: left;
+    margin-right: 15px;
+}
+
+p{
+    margin-bottom: 30px;
+}
