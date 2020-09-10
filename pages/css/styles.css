@@ -46,4 +46,5 @@ footer{
     border-top-width: 10px;
     position: sticky;
     bottom: 0;
+    text-align: center;
 }
