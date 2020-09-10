@@ -16,6 +16,11 @@ h1{
     color: #0C0E01;
 }
 
+.d-flex a{
+    color: black;
+    margin-left: 5px;
+}
+
 .spacer{
     height: 100px;
 }
