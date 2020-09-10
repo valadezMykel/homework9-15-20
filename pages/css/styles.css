@@ -26,6 +26,7 @@ h1{
 
 .mainbox{
     background-color: white;
+    border-radius: 5px;
 }
 
 img{
@@ -35,4 +36,14 @@ img{
 
 p{
     margin-bottom: 30px;
+}
+
+footer{
+    background-color: #4A452F;
+    height: 60px;
+    border-top-style: solid;
+    border-top-color: black;
+    border-top-width: 10px;
+    position: sticky;
+    bottom: 0;
 }
