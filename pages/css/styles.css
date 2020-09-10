@@ -14,6 +14,7 @@ nav{
 
 h1{
     color: #0C0E01;
+    margin-bottom: 20px;
 }
 
 .d-flex a{
@@ -40,7 +41,7 @@ img{
 }
 
 .porfolio-img{
-    margin-top: 20px;
+    margin-bottom: 50px;
 }
 
 p{
