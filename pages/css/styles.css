@@ -59,6 +59,15 @@ p{
     color: white;
 }
 
+#contact-enter-btn:hover{
+    border-style: solid;
+    border-color: #899092;
+}
+
+#contact-enter-btn:active{
+    background-color: yellowgreen;
+}
+
 footer{
     background-color: #4A452F;
     height: 60px;
