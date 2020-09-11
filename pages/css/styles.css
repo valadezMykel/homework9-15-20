@@ -5,17 +5,20 @@ nav{
 #nav-header-box{
     background-color: #4A452F;
     padding: 5px;
+    border-radius: 5px;
 }
 
 #nav-header-box h2{
     color: white;
     text-shadow: 2px -1px #0C0E01;
+    font-family: 'Times New Roman', Times, serif;
 
 }
 
 h1{
     color: #0C0E01;
     margin-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .d-flex a{
