@@ -3,21 +3,21 @@ nav{
 }
 
 #nav-header-box{
-    background-color: #4A452F;
+    background-color: #4AAAA5;
     padding: 5px;
     border-radius: 5px;
 }
 
 #nav-header-box h2{
     color: white;
-    text-shadow: 2px -1px #0C0E01;
     font-family: 'Times New Roman', Times, serif;
 
 }
 
 h1{
-    color: #0C0E01;
+    color: #4AAAA5;
     margin-bottom: 20px;
+    margin-top: 20px;
     font-family: 'Times New Roman', Times, serif;
 }
 
@@ -31,7 +31,7 @@ h1{
 }
 
 #backdrop{
-    background-image: url(pexels-photo-5294039.jpeg);
+    background-image: url(pexels-karolina-grabowska-4046757.jpg);
 }
 
 .mainbox{
@@ -55,26 +55,30 @@ p{
 
 #contact-enter-btn{
     margin-bottom: 20px;
-    background-color: #55595A;
+    border-width: 0px;
+    font-size: 1rem;
+    background-color: #4aaaa5;
     color: white;
+    padding: 20px 40px 20px 40px;
 }
 
-#contact-enter-btn:hover{
+/* #contact-enter-btn:hover{
     border-style: solid;
     border-color: #899092;
-}
+} */
 
-#contact-enter-btn:active{
+/* #contact-enter-btn:active{
     background-color: yellowgreen;
-}
+} */
 
 footer{
-    background-color: #4A452F;
+    background-color: #666666;
     height: 60px;
     border-top-style: solid;
-    border-top-color: black;
+    border-top-color: #4AAAA5;
     border-top-width: 10px;
     position: sticky;
     bottom: 0;
+    color: #6C747C;
     text-align: center;
 }
