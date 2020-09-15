@@ -1,5 +1,5 @@
 # homework9-15-20
---
+---
 
 ## About
 
@@ -11,8 +11,24 @@ The html uses UI library from [getbootstrap.com](https://getbootstrap.com/)
 ![Porfolio Page](pages/css/Porfolio.png)
 
 ![Contact Page](pages/css/Contact.png)
-----
 
+##### Uses
+
+This repo allows a professional way to display your achivments online, and can be modified through the html files to hold anyone's information.
+
+------
+
+## API
+
+No API used
+
+------
+
+## Instalation
+
+Clone from Github using SSH key or HTTPS
+
+------
 ## License
 
-Code Licensed MIT, docs CC BY 3.0
+[getbootstrap.com](https://getbootstrap.com/):  Code Licensed MIT, docs CC BY 3.0
