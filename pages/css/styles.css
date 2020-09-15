@@ -5,7 +5,7 @@ nav{
 #nav-header-box{
     background-color: #4AAAA5;
     padding: 5px;
-    border-radius: 5px;
+    /* border-radius: 5px; */
 }
 
 #nav-header-box h2{
